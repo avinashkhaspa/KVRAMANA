@@ -172,7 +172,7 @@ export default function App() {
             <div className="absolute inset-0 bg-herbal-200 rounded-full blur-3xl opacity-30 transform translate-x-10 translate-y-10"></div>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
                <img 
-                 src="/doctor.jpg" 
+                 src="/Doctor.jpeg" 
                  alt="Dr. K.V. Ramana" 
                  className="w-full h-auto object-cover"
                />
